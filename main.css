@@ -1,21 +1,39 @@
-div {
+  body {
+   margin:0;
+ }
 
+ div {
+   float: left;
 }
 
- .header {
+  .header {
+    background-color: peachpuff;
+    width:100%;
 
    }
 
    .navagation {
+     background-color: peachpuff;
+     width: 100%;
 
    }
 
-   .maincontent
+   .maincontent {
+     background-color:  red;
+     width:100%
+
+   }
+
    .maincontent{
-
+     background-color: orange;
+     width:100%
 
    }
+   .sidebar { background-color: peachpuff
+     width:100%
 
-     .sidebar {
-       
      }
+     .footer {
+       background-color: blue;
+       width:100%
+        }
